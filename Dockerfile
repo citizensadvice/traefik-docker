@@ -1,1 +1,1 @@
-FROM traefik:v2.4.1
+FROM traefik:v1.7.28-alpine
